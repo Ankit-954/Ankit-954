@@ -43,11 +43,6 @@ Motivated Mern Stack Developer with 2 months of hands-on experience in React-bas
 - **B.Tech - Information Technology** | 2021 - 2025
 - **Grade - 7.16**
 
-## 🏆 Achievement
-
-- Secured third place in SIH Hackathon among over 30 teams
-- Solved more than 200+ Question on Leetcode , GFG, CodeChef and other Coding Platforms.
-- Earned HACKERRANK certifications in problem-solving in C++ Programming (Intermediate) and SQL.
 
 ## 📞 Contact Information
 
