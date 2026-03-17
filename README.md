@@ -14,26 +14,28 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const ankit = {
-  location: "Punjab, India 📍",
-  education: "B.Tech CSE @ Lovely Professional University (2025)",
-  role: "Full Stack Developer (MERN)",
-  experience: ["MERN Stack Training @ Cipher School, Chandigarh"],
-  skills: {
-    languages:    ["C++", "Java", "JavaScript", "SQL"],
-    frontend:     ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
-    backend:      ["Node.js", "Express.js", "REST APIs"],
-    databases:    ["MongoDB", "MySQL"],
-    tools:        ["Git", "GitHub", "Postman", "VS Code", "IntelliJ"],
-    cloud:        ["Vercel"],
-    extra:        ["GenAI", "OpenAI API", "GraphQL", "Redux", "Next.js"]
-  },
-  currentFocus:  "Building AI-powered full stack applications",
-  openTo:        "Full Stack Developer roles 🚀",
-  funFact:       "I debug with console.log and I'm not ashamed 😄"
-};
-```
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+### 👋 Hi, I'm Ankit Kumar!
+
+🎓 **B.Tech CSE** @ Lovely Professional University *(2025)*  
+💼 **Full Stack Developer** — MERN Stack Specialist  
+🏋️ Trained @ **Cipher School, Chandigarh**  
+📍 Based in **Punjab, India**  
+
+&nbsp;
+
+- 🔭 Currently building **AI-powered full stack applications**
+- 🤖 Integrated **OpenAI API** into production edutech platform
+- 💡 Solved **400+ DSA problems** on LeetCode, GFG & CodeChef
+- 🌱 Learning **System Design**, **TypeScript** & **Cloud (AWS)**
+- 💬 Ask me about **React, Node.js, MongoDB, Express**
+- 📫 Reach me at **ankit954mishra@gmail.com**
+- ⚡ Fun fact: *I debug with console.log and I'm not ashamed 😄*
+
+&nbsp;
+
+> 🚀 **Actively seeking Full Stack Developer opportunities!**
 
 ---
 
@@ -41,6 +43,7 @@ const ankit = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kcx7.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-5669042aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit-954)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
@@ -181,6 +184,7 @@ const ankit = {
 
 > 💬 *"I'm actively looking for Full Stack Developer opportunities. If you're hiring or know someone who is — let's talk!"*
 
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kcx7.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-5669042aa/)
 
 </div>
