@@ -21,7 +21,7 @@
 🎓 **B.Tech CSE** @ Lovely Professional University *(2025)*  
 💼 **Full Stack Developer** — MERN Stack Specialist  
 🏋️ Trained @ **Cipher School, Chandigarh**  
-📍 Based in **Punjab, India**  
+📍 Based in **Bengaluru, Karnataka**  
 
 &nbsp;
 
@@ -180,7 +180,7 @@
 
 <div align="center">
 
-**📧** ankit954mishra@gmail.com &nbsp;|&nbsp; **📱** +91-9546326312 &nbsp;|&nbsp; **📍** Punjab, India
+**📧** ankit954mishra@gmail.com &nbsp;|&nbsp; **📱** +91-9546326312 &nbsp;|&nbsp; **📍** Bengaluru, Karnataka
 
 > 💬 *"I'm actively looking for Full Stack Developer opportunities. If you're hiring or know someone who is — let's talk!"*
 
