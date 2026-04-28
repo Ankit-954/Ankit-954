@@ -19,7 +19,7 @@
 ### 👋 Hi, I'm Ankit Kumar!
 
 🎓 **B.Tech CSE** @ Lovely Professional University *(2025)*  
-💼 **Full Stack Developer** — MERN Stack Specialist  
+💼 **Full Stack Developer** 
 🏋️ Trained @ **Cipher School, Chandigarh**  
 📍 Based in **Bengaluru, Karnataka**  
 
