@@ -24,17 +24,38 @@
 
 ---
 
-## `$ whoami`
+## 🧑‍💻 About Me
 
-```yaml
-name        : Ankit Kumar
-role        : Software Developer · Backend Engineer · Freelancer
-education   : B.Tech CSE — Lovely Professional University (2025)
-training    : Cipher School, Chandigarh
-location    : Bengaluru, Karnataka, India
-contact     : ankit954mishra@gmail.com | +91-9546326312
-status      : Open to Full-Time Roles & Freelance Projects
-```
+<table>
+  <tr>
+    <td>👤 &nbsp;<b>Name</b></td>
+    <td>Ankit Kumar</td>
+  </tr>
+  <tr>
+    <td>💼 &nbsp;<b>Role</b></td>
+    <td>Software Developer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Freelancer</td>
+  </tr>
+  <tr>
+    <td>🎓 &nbsp;<b>Education</b></td>
+    <td>B.Tech CSE — Lovely Professional University <em>(2025)</em></td>
+  </tr>
+  <tr>
+    <td>🏋️ &nbsp;<b>Training</b></td>
+    <td>Cipher School, Chandigarh</td>
+  </tr>
+  <tr>
+    <td>📍 &nbsp;<b>Location</b></td>
+    <td>Bengaluru, Karnataka, India</td>
+  </tr>
+  <tr>
+    <td>📫 &nbsp;<b>Contact</b></td>
+    <td><a href="mailto:ankit954mishra@gmail.com">ankit954mishra@gmail.com</a> &nbsp;|&nbsp; +91-9546326312</td>
+  </tr>
+  <tr>
+    <td>🟢 &nbsp;<b>Status</b></td>
+    <td><b>Open to Full-Time Roles &amp; Freelance Projects</b></td>
+  </tr>
+</table>
 
 <br/>
 
