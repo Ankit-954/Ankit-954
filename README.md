@@ -145,7 +145,7 @@
 
 ### 🎓 Smart Learn Ai 
 
-> Intelligent learning platform with OpenAI integration, built for real users.
+> Intelligent learning platform with Gemni & Groq integration, built for real users.
 
 **Key Features**
 - 🗺️Built a full-stack AI-powered edtech platform using the MERN stack.
