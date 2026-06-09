@@ -1,55 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ankit%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Ankit%20Kumar&fontSize=65&fontColor=e2e8f0&fontAlignY=38&desc=Software%20Developer%20%E2%80%82%7C%E2%80%82Backend%20Engineer%20%E2%80%82%7C%E2%80%82Freelancer&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ankit+Kumar+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;400%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+to+Exciting+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Software+Developer+%26+Backend+Engineer;MERN+Stack+%7C+REST+APIs+%7C+System+Design;400%2B+DSA+Problems+Solved+in+C%2B%2B;Available+for+Freelance+%26+Full-Time+Roles)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-### 👋 Hi, I'm Ankit Kumar!
-
-🎓 **B.Tech CSE** @ Lovely Professional University *(2025)*  
-💼 **Full Stack Developer** 
-🏋️ Trained @ **Cipher School, Chandigarh**  
-📍 Based in **Bengaluru, Karnataka**  
-
-&nbsp;
-
-- 🔭 Currently building **AI-powered full stack applications**
-- 🤖 Integrated **OpenAI API** into production edutech platform
-- 💡 Solved **400+ DSA problems** on LeetCode, GFG & CodeChef
-- 🌱 Learning **System Design**, **TypeScript** & **Cloud (AWS)**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 Reach me at **ankit954mishra@gmail.com**
-- ⚡ Fun fact: *I debug with console.log and I'm not ashamed 😄*
-
-&nbsp;
-
-> 🚀 **Actively seeking Full Stack Developer opportunities!**
-
----
-
-## 🔗 Connect With Me
+<br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kcx7.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-5669042aa/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit-954)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankit954mishra@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=60A5FA)](https://my-portfolio-kcx7.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/ankit-kumar-5669042aa/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/Ankit-954)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=60A5FA)](https://leetcode.com/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:ankit954mishra@gmail.com)
 
 </div>
+
+---
+
+## `$ whoami`
+
+```yaml
+name        : Ankit Kumar
+role        : Software Developer · Backend Engineer · Freelancer
+education   : B.Tech CSE — Lovely Professional University (2025)
+training    : Cipher School, Chandigarh
+location    : Bengaluru, Karnataka, India
+contact     : ankit954mishra@gmail.com | +91-9546326312
+status      : Open to Full-Time Roles & Freelance Projects
+```
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### What I Do
+
+- 🏗️ &nbsp;**Build production-grade backend systems** with Node.js, Express & MongoDB
+- 🤖 &nbsp;**Integrate AI & LLMs** — shipped OpenAI-powered features in a live edutech platform
+- 🧩 &nbsp;**Design scalable REST APIs** consumed by real users
+- 🖥️ &nbsp;**Develop complete web applications** end-to-end across the MERN stack
+- 🔍 &nbsp;**Solve complex problems** — 400+ DSA challenges in C++
+- 💼 &nbsp;**Freelance** — helping businesses ship fast, reliable web software
+
+</td>
+<td valign="top" width="45%">
+
+### Currently
+
+```
+📐  System Design & Architecture
+⚡  TypeScript — Advanced Patterns
+☁️  AWS — Cloud Deployment
+🤖  LLM Integration & Prompt Eng.
+🔄  GraphQL APIs
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,34 +74,43 @@
 
 <div align="center">
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Backend & APIs**
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=flat-square&logo=express&logoColor=black)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)&nbsp;
+![REST API](https://img.shields.io/badge/REST%20API-0f172a?style=flat-square&logo=fastapi&logoColor=60A5FA)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Database & Storage**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
@@ -92,27 +118,40 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 EduTech App — MERN + AI  
-> An intelligent edutech platform that personalizes learning journeys using OpenAI.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🗺️ **Dynamic Roadmap Search & Download** — personalized learning paths for every user
-- 🎥 **Video-Based Courses** — structured multi-subject content delivery
-- 🤖 **AI-Generated Assessments** — auto-generate questions via OpenAI API
-- 🛡️ **Super Admin Dashboard** — full control over users, roles & content management
+### 🎓 EduTech Platform — AI Powered
 
-`MongoDB` `Express.js` `React.js` `Node.js` `OpenAI API`
+> Intelligent learning platform with OpenAI integration, built for real users.
 
----
+**Key Features**
+- 🗺️ Personalized AI-generated learning roadmaps with PDF export
+- 🤖 Auto-generated assessments via OpenAI API
+- 🎥 Structured video course delivery system
+- 🛡️ Super Admin dashboard — user, role & content control
 
-### 🍔 Food Delivery App — MERN Stack  
-> A scalable, production-ready food delivery platform with modern UX.
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `OpenAI API`
 
-- 🔐 **Secure Auth System** — JWT-based signup, login & profile management
-- 📦 **Order Tracking & Cart** — real-time order status with dynamic cart
-- 🧑‍💼 **Admin Dashboard** — manage users, orders, and menus effortlessly
-- 💳 **Payment Gateway Integration** — seamless checkout experience
+</td>
+<td width="50%" valign="top">
 
-`MongoDB` `Express.js` `React.js` `Node.js`
+### 🍔 Food Delivery App — MERN
+
+> Scalable, production-ready delivery platform with end-to-end flow.
+
+**Key Features**
+- 🔐 JWT-based auth with secure session management
+- 📦 Real-time order tracking & dynamic cart system
+- 🧑‍💼 Admin dashboard — orders, menus & user management
+- 💳 Payment gateway integration with smooth checkout
+
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,24 +159,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankit-954&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-954&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ankit-954&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=60A5FA"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-954&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ankit-954&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ankit-954&theme=tokyonight&hide_border=true&background=0d1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ankit-954&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ankit-954&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -147,45 +186,40 @@
 
 <div align="center">
 
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-954&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-954&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60A5FA&line=60A5FA&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🎯 Achievements & Certifications
-
-| 🏅 Achievement | 📝 Details |
-|---|---|
-| 💡 **400+ DSA Problems** | Solved on LeetCode, GeeksForGeeks & CodeChef |
-| 🎓 **Full Stack Certification** | MERN Stack Training — Cipher School, Chandigarh |
-| 🤖 **AI Integration** | Built OpenAI-powered features in production apps |
-| 📊 **DBMS Mastery** | Fundamentals & Advanced DBMS — Scaler |
-| 🌱 **Community Project** | Adopt a Plant — LPU DSW Initiative |
-
----
-
-## 📚 Currently Learning
-
-```
-🧠  System Design & Scalability
-⚡  TypeScript (Advanced Patterns)
-☁️  Cloud Deployment (AWS Basics)
-🤖  LLM Integration & Prompt Engineering
-```
-
----
-
-## 📞 Let's Connect!
+## 🎯 Achievements
 
 <div align="center">
 
-**📧** ankit954mishra@gmail.com &nbsp;|&nbsp; **📱** +91-9546326312 &nbsp;|&nbsp; **📍** Bengaluru, Karnataka
+| Achievement | Details |
+|:---|:---|
+| 💡 **400+ DSA Problems** | LeetCode · GeeksForGeeks · CodeChef — solved in C++ |
+| 🤖 **AI Integration** | Shipped OpenAI-powered features in a production edutech app |
+| 🎓 **Full Stack Certified** | MERN Stack — Cipher School, Chandigarh |
+| 📊 **DBMS Mastery** | Fundamentals & Advanced — Scaler |
+| 🌱 **Community Initiative** | Adopt a Plant — LPU DSW |
 
-> 💬 *"I'm actively looking for Full Stack Developer opportunities. If you're hiring or know someone who is — let's talk!"*
+</div>
 
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-kcx7.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-5669042aa/)
+---
+
+## 💼 Open to Opportunities
+
+<div align="center">
+
+**Available for Full-Time Roles & Freelance Projects**
+
+📧 &nbsp;ankit954mishra@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 📱 &nbsp;+91-9546326312 &nbsp;&nbsp;|&nbsp;&nbsp; 📍 &nbsp;Bengaluru, Karnataka
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=60A5FA)](https://my-portfolio-kcx7.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/ankit-kumar-5669042aa/)
 
 </div>
 
@@ -193,8 +227,8 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ankit-954&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ankit-954&label=Profile+Views&color=60A5FA&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%"/>
 
 </div>
