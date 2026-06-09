@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Ankit%20Kumar&fontSize=65&fontColor=e2e8f0&fontAlignY=38&desc=Software%20Developer%20%E2%80%82%7C%E2%80%82Backend%20Engineer%20%E2%80%82%7C%E2%80%82Freelancer&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Ankit%20Kumar&fontSize=65&fontColor=e2e8f0&fontAlignY=38&desc=Software%20Developer%20%26%20Backend%20Engineer" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Software+Developer+%26+Backend+Engineer;MERN+Stack+%7C+REST+APIs+%7C+System+Design;400%2B+DSA+Problems+Solved+in+C%2B%2B;Available+for+Freelance+%26+Full-Time+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=640&lines=Software+Developer+%26+Backend+Engineer;MERN+Stack+Specialist;AI+%26+LLM+Integration+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -143,17 +143,19 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 EduTech Platform — AI Powered
+### 🎓 Smart Learn AI — Full-Stack EdTech
 
-> Intelligent learning platform with OpenAI integration, built for real users.
+> AI-powered learning platform with personalized roadmaps, adaptive assessments, and mock interviews. Production-ready MERN stack with advanced LLM integrations.
 
 **Key Features**
-- 🗺️ Personalized AI-generated learning roadmaps with PDF export
-- 🤖 Auto-generated assessments via OpenAI API
-- 🎥 Structured video course delivery system
-- 🛡️ Super Admin dashboard — user, role & content control
+- 🗺️ Personalized AI-generated learning roadmaps using Groq & Gemini APIs
+- 🤖 Adaptive test modules with intelligent question generation
+- 🎬 AI mock interview system with scoring and detailed feedback reports
+- 💳 Razorpay payment integration for course purchases & enrollment
+- 🛡️ Admin dashboard for content, user & platform management
 
-**Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `OpenAI API`
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `Groq API` `Gemini API` `Razorpay`
+**Timeline:** Jan 2025
 
 </td>
 <td width="50%" valign="top">
@@ -180,7 +182,7 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ankit-954&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=60A5FA"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ankit-954&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60A5FA"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-954&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA"/>
 
 </div>
@@ -207,7 +209,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-954&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60A5FA&line=60A5FA&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-954&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60A5FA&line=60A5FA&point=ffffff)](https://github.com/Ankit-954)
 
 </div>
 
@@ -220,7 +222,7 @@
 | Achievement | Details |
 |:---|:---|
 | 💡 **400+ DSA Problems** | LeetCode · GeeksForGeeks · CodeChef — solved in C++ |
-| 🤖 **AI Integration** | Shipped OpenAI-powered features in a production edutech app |
+| 🤖 **AI Integration** | Shipped OpenAI, Groq, and Gemini-powered features in production edtech apps |
 | 🎓 **Full Stack Certified** | MERN Stack — Cipher School, Chandigarh |
 | 📊 **DBMS Mastery** | Fundamentals & Advanced — Scaler |
 | 🌱 **Community Initiative** | Adopt a Plant — LPU DSW |
