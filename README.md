@@ -143,14 +143,14 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 EduTech Platform — AI Powered
+### 🎓 Smart Learn Ai 
 
 > Intelligent learning platform with OpenAI integration, built for real users.
 
 **Key Features**
-- 🗺️ Personalized AI-generated learning roadmaps with PDF export
-- 🤖 Auto-generated assessments via OpenAI API
-- 🎥 Structured video course delivery system
+- 🗺️Built a full-stack AI-powered edtech platform using the MERN stack.
+- 🤖 Developed personalized roadmap generation and adaptive test modules using Groq and Gemini APIs.
+- 🎥 Implemented an AI mock interview system with scoring and feedback reports.
 - 🛡️ Super Admin dashboard — user, role & content control
 
 **Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `OpenAI API`
@@ -163,10 +163,10 @@
 > Scalable, production-ready delivery platform with end-to-end flow.
 
 **Key Features**
-- 🔐 JWT-based auth with secure session management
-- 📦 Real-time order tracking & dynamic cart system
-- 🧑‍💼 Admin dashboard — orders, menus & user management
-- 💳 Payment gateway integration with smooth checkout
+- 🔐 Designed and developed a full stack food delivery platform with a modern, responsive UI.
+- 📦Implemented secure user authentication for sign up, login, and profile management.
+- 🧑‍💼 Built an admin dashboard to manage users and orders, reducing manual operations.
+- 💳 Enabled seamless checkout experience with support for payment gateway integration.
 
 **Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
 
