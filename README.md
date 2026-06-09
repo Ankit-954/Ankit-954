@@ -153,7 +153,7 @@
 - 🎥 Implemented an AI mock interview system with scoring and feedback reports.
 - 🛡️ Super Admin dashboard — user, role & content control
 
-**Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `OpenAI API`
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `Gemni & Groq API`
 
 </td>
 <td width="50%" valign="top">
